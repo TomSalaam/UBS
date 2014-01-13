@@ -12,11 +12,17 @@ namespace WordInstanceCounter
         static void Main(string[] args)
         {
             //I have opted for the manual split implemented in the CountWordsUsingManualSplit() method.
-            //There are faster algorithms such as the CountWordsUsingLinq() but looking at time complexity
+            //There are faster algorithms such as the CountWordsUsingLinq() which i have included because it is very concise as well as fast.
+            //But looking at time complexity
             //and the ease with which code can be read and maintained, it is often better to opt for the
             //most straightforward solution.
+            //The manual split implementation loops only once but has more writes to the dictionary. Writes to the dictionary are pretty quick anyway.
+            //The Linq implementation has potentially fewer writes to the dictionary but has to split and group thereby giving a higher time complexity
             CountWordsUsingManualSplit(Console.ReadLine());
             Console.ReadLine();
+
+            //CountWordsUsingLinq(Console.ReadLine();
+            //Console.ReadLine();
         }
         public static void CountWordsUsingManualSplit(String str)
         {

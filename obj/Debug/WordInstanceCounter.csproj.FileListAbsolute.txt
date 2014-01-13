@@ -1,0 +1,10 @@
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\bin\Debug\WordInstanceCounter.exe.config
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\bin\Debug\WordInstanceCounter.exe
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\bin\Debug\WordInstanceCounter.pdb
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\obj\Debug\WordInstanceCounter.exe
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\obj\Debug\WordInstanceCounter.pdb
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\bin\Debug\WordInstanceCounter.exe.manifest
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\bin\Debug\WordInstanceCounter.application
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\obj\Debug\WordInstanceCounter.csprojResolveAssemblyReference.cache
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\obj\Debug\WordInstanceCounter.exe.manifest
+c:\users\papa\documents\visual studio 2012\Projects\WordInstanceCounter\WordInstanceCounter\obj\Debug\WordInstanceCounter.application
